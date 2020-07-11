@@ -23,5 +23,5 @@ Below is the schema for the database:
 * [Microsoft Powerpoint](https://www.microsoft.com/en-us/microsoft-365/) - Used for aesthetics.
 
 # Credits
-[Udacity Programminging for data Science Nanodegree](https://www.udacity.com/) - Excellent course and material.
-[BeardedDev](https://www.youtube.com/channel/UCWczzX6DyFV2KOYP_-CEZUA) - [Youtube](https://www.youtube.com/watch?v=H6OTMoXjNiM) - Helped me further understand SQL Window Functions.
+* [Udacity Programminging for data Science Nanodegree](https://www.udacity.com/) - Excellent course and material.
+* [BeardedDev](https://www.youtube.com/channel/UCWczzX6DyFV2KOYP_-CEZUA) - [Youtube](https://www.youtube.com/watch?v=H6OTMoXjNiM) - Helped me further understand SQL Window Functions.
